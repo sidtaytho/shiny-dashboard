@@ -1,0 +1,13 @@
+name: ktp_practicum
+title: ktp_practicum
+username:
+account: sidtaytho
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 5717246
+bundleId: 5609854
+url: https://sidtaytho.shinyapps.io/ktp_practicum/
+when: 1645626030.42516
+lastSyncTime: 1645626030.42516
+asMultiple: FALSE
+asStatic: FALSE
